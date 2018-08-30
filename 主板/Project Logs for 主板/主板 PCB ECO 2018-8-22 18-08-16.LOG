@@ -1,0 +1,16 @@
+Added Component: Designator=C51(C 0805)
+Added Component: Designator=R23(R 0805)
+Added Component: Designator=R24(R 0805)
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=MCU_3V Pin=R24-2
+Added Pin To Net: NetName=NetC51_2 Pin=C51-2
+Added Pin To Net: NetName=NetC51_2 Pin=R24-1
+Added Pin To Net: NetName=NetC51_2 Pin=U2-14
+Added Net: Name=NetC51_2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U2-94
+Added Net: Name=NetR23_1
+Added Member To Class: ClassName=Ö÷°å Member=Component C51 104
+Added Member To Class: ClassName=Ö÷°å Member=Component R23 1K
+Added Member To Class: ClassName=Ö÷°å Member=Component R24 1K

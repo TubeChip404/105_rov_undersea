@@ -1,0 +1,63 @@
+Added Component: Designator=E5(CS 3.5*8*11.5 - C)
+Added Component: Designator=JP11(KF128-5.08-2P)
+Added Component: Designator=JP12(HDR-1X16)
+Added Component: Designator=JP13(HDR-1X16)
+Added Component: Designator=JP14(HDR-1X16)
+Added Pin To Net: NetName=GND Pin=E5-2
+Added Pin To Net: NetName=GND Pin=JP11-1
+Added Pin To Net: NetName=PWM0 Pin=JP12-1
+Added Pin To Net: NetName=PWM1 Pin=JP12-2
+Added Pin To Net: NetName=PWM2 Pin=JP12-3
+Added Pin To Net: NetName=PWM3 Pin=JP12-4
+Added Pin To Net: NetName=PWM4 Pin=JP12-5
+Added Pin To Net: NetName=PWM5 Pin=JP12-6
+Added Pin To Net: NetName=PWM6 Pin=JP12-7
+Added Pin To Net: NetName=PWM7 Pin=JP12-8
+Added Pin To Net: NetName=PWM8 Pin=JP12-9
+Added Pin To Net: NetName=PWM9 Pin=JP12-10
+Added Pin To Net: NetName=PWM10 Pin=JP12-11
+Added Pin To Net: NetName=PWM11 Pin=JP12-12
+Added Pin To Net: NetName=PWM12 Pin=JP12-13
+Added Pin To Net: NetName=PWM13 Pin=JP12-14
+Added Pin To Net: NetName=PWM14 Pin=JP12-15
+Added Pin To Net: NetName=PWM15 Pin=JP12-16
+Added Pin To Net: NetName=GND Pin=JP14-1
+Added Pin To Net: NetName=GND Pin=JP14-2
+Added Pin To Net: NetName=GND Pin=JP14-3
+Added Pin To Net: NetName=GND Pin=JP14-4
+Added Pin To Net: NetName=GND Pin=JP14-5
+Added Pin To Net: NetName=GND Pin=JP14-6
+Added Pin To Net: NetName=GND Pin=JP14-7
+Added Pin To Net: NetName=GND Pin=JP14-8
+Added Pin To Net: NetName=GND Pin=JP14-9
+Added Pin To Net: NetName=GND Pin=JP14-10
+Added Pin To Net: NetName=GND Pin=JP14-11
+Added Pin To Net: NetName=GND Pin=JP14-12
+Added Pin To Net: NetName=GND Pin=JP14-13
+Added Pin To Net: NetName=GND Pin=JP14-14
+Added Pin To Net: NetName=GND Pin=JP14-15
+Added Pin To Net: NetName=GND Pin=JP14-16
+Added Pin To Net: NetName=CUS_VCC Pin=E5-1
+Added Pin To Net: NetName=CUS_VCC Pin=JP11-2
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-1
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-2
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-3
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-4
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-5
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-6
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-7
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-8
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-9
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-10
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-11
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-12
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-13
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-14
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-15
+Added Pin To Net: NetName=CUS_VCC Pin=JP13-16
+Added Net: Name=CUS_VCC
+Added Member To Class: ClassName=电源舱控制板 Member=Component E5 10UF/6.3V
+Added Member To Class: ClassName=电源舱控制板 Member=Component JP11 HDR-1X2
+Added Member To Class: ClassName=电源舱控制板 Member=Component JP12 HDR-1X16
+Added Member To Class: ClassName=电源舱控制板 Member=Component JP13 HDR-1X16
+Added Member To Class: ClassName=电源舱控制板 Member=Component JP14 HDR-1X16

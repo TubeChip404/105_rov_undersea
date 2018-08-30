@@ -1,0 +1,68 @@
+Bill of Material for 
+On 2018/8/22 at 19:11:54
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100                 R 0201          33    R27, R28, R29, R30, R31, R32 贴片电阻                 
+                                           R33, R34, R35, R55, R56, R57
+                                           R58, R59, R60, R61, R62, R63
+                                           R64, R65, R66, R67, R68, R69
+                                           R70, R79, R80, R81, R82, R83
+                                           R84, R85, R86
+ 1000uF              CS 2.0*5*8 - C    1    E11                          直插固态电容               
+ 104                 C 0201          42    C7, C8, C9, C10, C11, C12    无极性贴片电容              
+                                           C13, C14, C15, C16, C17, C18
+                                           C19, C20, C21, C22, C23, C24
+                                           C25, C26, C27, C28, C29, C30
+                                           C31, C32, C33, C34, C35, C36
+                                           C37, C38, C39, C40, C41, C42
+                                           C43, C44, C45, C46, C47, C48
+ 104                 C 0805           1    C51                          无极性贴片电容              
+ 107E                CD A(3216)      10    E1, E2, E3, E4, E5, E6, E7   贴片钽电容                
+                                           E8, E9, E10
+ 10K                 R 0201           9    R4, R9, R11, R12, R13, R14   贴片电阻                 
+                                           R15, R53, R54
+ 10um                L 0402           1    L1                           小功率贴片电感              
+ 120                 R 0201           1    R91                          贴片电阻                 
+ 12MHz               XTAL-49S DIP     2    X2, X3                       2脚晶振                 
+ 1K                  3296W            6    R10, RP1, RP2, RP3, RP4, RP5 插件单联电位器              
+ 1K                  R 0201          26    R16, R17, R18, R19, R20, R21 贴片电阻                 
+                                           R22, R44, R45, R46, R47, R48
+                                           R49, R50, R51, R52, R71, R73
+                                           R74, R75, R76, R77, R78, R88
+                                           R89, R90
+ 1K                  R 0805           2    R23, R24                     贴片电阻                 
+ 22                  C 0201           8    C1, C2, C3, C4, C5, C6, C49  无极性贴片电容              
+                                           C50
+ 22                  R 0201           4    R2, R3, R7, R8               贴片电阻                 
+ 4K7                 R 0201           2    R5, R6                       贴片电阻                 
+ 510                 R 0201           2    R72, R87                     贴片电阻                 
+ 650                 R 0201           1    R1                           贴片电阻                 
+ 8MHz                XTAL-49S DIP     2    X1, X4                       2脚晶振                 
+ AMS1117-3V3         SOT223_L         3    V1, V2, V3                   三端稳压芯片               
+ CH340G              SOP16_L          1    IC1                          串口转USB               
+ FPDK12SR8006PSV     FPDK12SR8006PSV    6    M1, M2, M3, M4, M5, M6       DC-DC POWER CONVERTOR 12V-TO-5V 
+ GL850               SSOP28_M         1    IC2                          4 Port USB HUB       
+ HCPL2630            DIP8-300         8    IC4, IC5, IC6, IC7, IC8, IC9 高速光电耦合器 10Mbit/s     
+                                           IC10, IC11
+ HDR-1X16            HDR-1X16         3    JP5, JP8, JP10               16P接插件               
+ HDR-1X2             HDR-1X2          3    JP11, JP12, JP21             2P接插件                
+ HDR-1X4             HDR-1X4          2    JP9, JP17                    4P接插件                
+ HDR-1X8             HDR-1X8          1    JP16                         8P接插件                
+ Header 4X2          HDR-4X2          8    JP6, JP7, JP13, JP14, JP15   4*2P接插件              
+                                           JP18, JP19, JP20
+ Header3X2           HDR-3X2          4    JP1, JP2, JP3, JP4           3*2P接插件              
+ HK4100F-DC5V-SHG    HK4100F          2    JK1, JK2                     单路双控继电器              
+ M7                  SMA              2    VD4, VD5                     整流二极管                
+ MAX485              SOP8W_M          2    IC12, IC13                   485通信芯片              
+ PCA9685             TSSOP28_M        1    IC3                                               
+ SS34                SMC              3    VD1, VD2, VD3                肖特基二极管               
+ SS8050              SOT23-3N         2    Q1, Q2                       高频放大-NPN型            
+ STM32F103C8T6       LQFP48 7X7_N     1    U1                           Flaah:64/RAM:20/IO:36 
+ STM32F103V          LQFP100 14X14_L    1    U2                           32位STM单片机100引脚       
+ USB                 USB-A/S_B        2    USB2, USB3                   USB-A型母接口            
+ USB-5P              USB-MICRO_A      1    USB1                         微型USB母座              
+ 红色                  LED 0603W       16    LED1, LED2, LED3, LED4, LED5 贴片LED                
+                                           LED6, LED7, LED8, LED9, LED10
+                                           LED11, LED12, LED13, LED14
+                                           LED15, LED16

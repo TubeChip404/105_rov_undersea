@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=MAIN12V Pin=E1-1
+Added Pin To Net: NetName=MAIN12V Pin=JP5-4
+Added Pin To Net: NetName=MAIN12V Pin=JP5-5
+Added Pin To Net: NetName=MAIN12V Pin=JP5-6
+Added Pin To Net: NetName=MAIN12V Pin=M1-1
+Added Pin To Net: NetName=MAIN12V Pin=R32-1
+Change Net Name : Old Net Name=MAIN12V New Net Name=MAIN_12V

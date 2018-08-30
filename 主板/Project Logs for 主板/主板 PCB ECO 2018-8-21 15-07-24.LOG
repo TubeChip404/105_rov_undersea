@@ -1,0 +1,17 @@
+Added Component: Designator=R19(R 0805)
+Added Component: Designator=R20(R 0805)
+Added Component: Designator=R21(R 0805)
+Added Component: Designator=R22(R 0805)
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=I2C2_SCL Pin=R19-1
+Added Pin To Net: NetName=BOARD_5V Pin=R19-2
+Added Pin To Net: NetName=I2C2_SDA Pin=R20-1
+Added Pin To Net: NetName=BOARD_5V Pin=R20-2
+Added Pin To Net: NetName=I2C1_SCL Pin=R21-1
+Added Pin To Net: NetName=BOARD_5V Pin=R21-2
+Added Pin To Net: NetName=I2C1_SDA Pin=R22-1
+Added Pin To Net: NetName=BOARD_5V Pin=R22-2
+Added Member To Class: ClassName=主板 Member=Component R19 1K
+Added Member To Class: ClassName=主板 Member=Component R20 1K
+Added Member To Class: ClassName=主板 Member=Component R21 1K
+Added Member To Class: ClassName=主板 Member=Component R22 1K
